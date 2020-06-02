@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Mobile Test(failed)">
+    <parameter name="PlatformName" value="mobile"/>
+    <classes>
+      <class name="SanityTests.experiBankMobile">
+        <methods>
+          <include name="error"/>
+          <include name="startSession"/>
+          <include name="closeSession"/>
+        </methods>
+      </class> <!-- SanityTests.experiBankMobile -->
+    </classes>
+  </test> <!-- Mobile Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+
+    <!-- TimeOut -->
+    <TimeOut>5</TimeOut>
+    <Platform>mobile</Platform>
+
+    <!-- ____________________________________________________________________________________________________________________________ -->
+
+    <!-- Mobile -->
+    <UDID>08a912e20de85132</UDID>
+    <APP_PACKAGE>com.experitest.ExperiBank</APP_PACKAGE>
+    <APP_ACTIVITY>.LoginActivity</APP_ACTIVITY>
+    <AppiumServer>http://localhost:4723</AppiumServer>
+    <operating>android</operating>
+
+    <!-- Credentials Account -->
+    <UserName>company</UserName>
+    <Password>company</Password>
+
+    <!-- ____________________________________________________________________________________________________________________________ -->
+
+    <!-- API -->
+    <urlAPI>http://localhost:3000</urlAPI>
+
+    <!-- Credentials Account -->
+    <userNameAPI>admin</userNameAPI>
+    <passwordAPI>admin</passwordAPI>
+
+    <!-- ____________________________________________________________________________________________________________________________ -->
+
+    <!-- DB -->
+    <dbURL>jdbc:mysql://remotemysql.com:3306/NZhFOC9MRH</dbURL>
+    <dbUser>NZhFOC9MRH</dbUser>
+    <dbPassword>DQMlbLu3IC</dbPassword>
+
+</Environment>

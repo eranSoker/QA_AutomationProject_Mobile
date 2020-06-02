@@ -1,0 +1,365 @@
+{
+  "uid" : "f0a1a3862132827a",
+  "name" : "Login",
+  "fullName" : "SanityTests.experiBankMobile.login",
+  "historyId" : "ce83b60e2f6b4233590b06f4096c62a1",
+  "time" : {
+    "start" : 1590232456714,
+    "stop" : 1590232461206,
+    "duration" : 4492
+  },
+  "description" : "Test Description: login to my account",
+  "descriptionHtml" : "<p>Test Description: login to my account</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1590232442994,
+      "stop" : 1590232456659,
+      "duration" : 13665
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: login to my account",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Login to your account",
+      "time" : {
+        "start" : 1590232456777,
+        "stop" : 1590232459358,
+        "duration" : 2581
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Send Text to Text-Field",
+        "time" : {
+          "start" : 1590232457138,
+          "stop" : 1590232457596,
+          "duration" : 458
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (236e1d5c-4735-4764-af93-a3f617e7c400)] -> id: usernameTextField]"
+        }, {
+          "name" : "value",
+          "value" : "company"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Send Text to Text-Field",
+        "time" : {
+          "start" : 1590232458236,
+          "stop" : 1590232458532,
+          "duration" : 296
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (236e1d5c-4735-4764-af93-a3f617e7c400)] -> id: passwordTextField]"
+        }, {
+          "name" : "value",
+          "value" : "company"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Click on Element",
+        "time" : {
+          "start" : 1590232459120,
+          "stop" : 1590232459358,
+          "duration" : 238
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "elem",
+          "value" : "[[AndroidDriver:  on ANY (236e1d5c-4735-4764-af93-a3f617e7c400)] -> id: loginButton]"
+        } ],
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 3,
+      "hasContent" : true
+    }, {
+      "name" : "Verify Element is Displayed",
+      "time" : {
+        "start" : 1590232460750,
+        "stop" : 1590232461203,
+        "duration" : 453
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "elem",
+        "value" : "[[AndroidDriver:  on ANY (236e1d5c-4735-4764-af93-a3f617e7c400)] -> id: makePaymentButton]"
+      } ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1590232549682,
+      "stop" : 1590232553338,
+      "duration" : 3656
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Mobile Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RDMHKH3"
+  }, {
+    "name" : "thread",
+    "value" : "3720@DESKTOP-RDMHKH3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "mobile"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 6,
+        "passed" : 10,
+        "unknown" : 0,
+        "total" : 17
+      },
+      "items" : [ {
+        "uid" : "164b0cc9c3ac4109",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/164b0cc9c3ac4109",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590219207964,
+          "stop" : 1590219207966,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "ae1fa326e48384f2",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/ae1fa326e48384f2",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590219137043,
+          "stop" : 1590219137045,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "c335224cbd38f754",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/c335224cbd38f754",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590218338029,
+          "stop" : 1590218338031,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "58d078226e25bb41",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/58d078226e25bb41",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590218338029,
+          "stop" : 1590218338031,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "6d06e96af057d125",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/6d06e96af057d125",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590217635151,
+          "stop" : 1590217635153,
+          "duration" : 2
+        }
+      }, {
+        "uid" : "b7764ef79cff2f2b",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/b7764ef79cff2f2b",
+        "status" : "skipped",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1590217138922,
+          "stop" : 1590217138926,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "e9b010f3d9034741",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/15/allure/#testresult/e9b010f3d9034741",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589780743939,
+          "stop" : 1589780748687,
+          "duration" : 4748
+        }
+      }, {
+        "uid" : "37a9cdb68cba6eb0",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/14/allure/#testresult/37a9cdb68cba6eb0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589777625187,
+          "stop" : 1589777629874,
+          "duration" : 4687
+        }
+      }, {
+        "uid" : "e4fd2a594938a786",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/13/allure/#testresult/e4fd2a594938a786",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589777625187,
+          "stop" : 1589777629874,
+          "duration" : 4687
+        }
+      }, {
+        "uid" : "3ec0f31565cd1071",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/12/allure/#testresult/3ec0f31565cd1071",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589624041761,
+          "stop" : 1589624046346,
+          "duration" : 4585
+        }
+      }, {
+        "uid" : "b4f41cb1128e21a5",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/11/allure/#testresult/b4f41cb1128e21a5",
+        "status" : "broken",
+        "statusDetails" : "no such element (An element could not be located on the page using the given search parameters (ID='usernameTextField'))  (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.12 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-RDMHKH3', ip: '192.168.0.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities [{appPackage=com.experitest.ExperiBank, device.majorVersion=6, dontGoHomeOnQuit=false, device.os=Android, noReset=false, dontStopAppOnReset=false, reservationDuration=240, reportFormat=xml, fullReset=false, platform=ANY, deviceUDID=08a912e20de85132, install.only.for.update=false, desired={appPackage=com.experitest.ExperiBank, appActivity=.LoginActivity, udid=08a912e20de85132, platformName=Android}, device.serialNumber=08a912e20de85132, locationServicesAuthorized=false, device.version=6.0.1, reportDirectory=reports, autoWebview=false, udid=08a912e20de85132, platformName=Android, testName=mobile test 05/16/20 01:12 PM, device.screenSize=1080x1920, useKeystore=false, test.type=Mobile, commandTimeouts=120000, device.manufacture=LGE, instrumentApp=false, appiumVersion=1.8.0, device.category=PHONE, autoDismissAlerts=false, reportUrl=C:\\Users\\eran\\appiumstudio-reports\\reports\\test84, newSessionWaitTimeout=600, keystorePath=~/.android/debug.keystore, appActivity=.LoginActivity, waitForDeviceTimeout=120000, device.model=Nexus 5, device.name=Nexus 5, autoGrantPermissions=false, appBuildVersion=, appReleaseVersion=, takeScreenshots=true, projectName=, autoAcceptAlerts=false}]\nSession ID: 5675db80-e6ec-4c76-8ba1-af9e71cbf831\n*** Element info: {Using=id, value=usernameTextField}",
+        "time" : {
+          "start" : 1589623972836,
+          "stop" : 1589623983916,
+          "duration" : 11080
+        }
+      }, {
+        "uid" : "e63570665ae4b450",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/e63570665ae4b450",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589623027620,
+          "stop" : 1589623032132,
+          "duration" : 4512
+        }
+      }, {
+        "uid" : "216fb2e8bada6f1a",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/216fb2e8bada6f1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589622675902,
+          "stop" : 1589622680324,
+          "duration" : 4422
+        }
+      }, {
+        "uid" : "eed7aa65fa5611b6",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/eed7aa65fa5611b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589622383843,
+          "stop" : 1589622387973,
+          "duration" : 4130
+        }
+      }, {
+        "uid" : "d9935bff4d96d2d5",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/d9935bff4d96d2d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589621743143,
+          "stop" : 1589621747569,
+          "duration" : 4426
+        }
+      }, {
+        "uid" : "b48f770639bfdf01",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/b48f770639bfdf01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589621017663,
+          "stop" : 1589621022050,
+          "duration" : 4387
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f0a1a3862132827a.json",
+  "parameterValues" : [ "mobile" ]
+}

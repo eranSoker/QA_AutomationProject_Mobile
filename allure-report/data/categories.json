@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [90] but found [Your balance is: 76.00$]",
+      "children" : [ {
+        "name" : "ERROR",
+        "uid" : "4f41eb0fa34226c1",
+        "parentUid" : "63113ad65e484fc3fa54aa16002707c4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1590231361077,
+          "stop" : 1590231361812,
+          "duration" : 735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "63113ad65e484fc3fa54aa16002707c4"
+    }, {
+      "name" : "expected [100.00$] but found [Your balance is: 75.00$]",
+      "children" : [ {
+        "name" : "ERROR",
+        "uid" : "39f4f66c9b30bc10",
+        "parentUid" : "b3b2c53bc1485405fa9adaaa9f145eb0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1590232548692,
+          "stop" : 1590232549676,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "mobile" ]
+      } ],
+      "uid" : "b3b2c53bc1485405fa9adaaa9f145eb0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

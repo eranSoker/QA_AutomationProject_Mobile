@@ -1,0 +1,197 @@
+{
+  "uid" : "923981b9af8332f1",
+  "name" : "Send Payment",
+  "fullName" : "SanityTests.experiBankMobile.makeOnePayment",
+  "historyId" : "9f5de6b69e1093524c434151208e94a7",
+  "time" : {
+    "start" : 1590231303403,
+    "stop" : 1590231316904,
+    "duration" : 13501
+  },
+  "description" : "Test Description: Send 1$ as payment",
+  "descriptionHtml" : "<p>Test Description: Send 1$ as payment</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1590231278679,
+      "stop" : 1590231299440,
+      "duration" : 20761
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1590231361815,
+      "stop" : 1590231364974,
+      "duration" : 3159
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "testMethod",
+    "value" : "makeOnePayment"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "MobileFinalProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.experiBankMobile"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-RDMHKH3"
+  }, {
+    "name" : "thread",
+    "value" : "3216@DESKTOP-RDMHKH3.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "1396ff84cb92adca",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/1396ff84cb92adca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "deb4395434f962e9",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/deb4395434f962e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "6533daeb66ed276f",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/6533daeb66ed276f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "737fbee69e229946",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/737fbee69e229946",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "36bd8ed82a727a45",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/36bd8ed82a727a45",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "8b6b7b81bc6f27bf",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/5/allure/#testresult/8b6b7b81bc6f27bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "b234cb137d7bf490",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/4/allure/#testresult/b234cb137d7bf490",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "118f8001d0378b71",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/3/allure/#testresult/118f8001d0378b71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "236b05be9a9986b9",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/2/allure/#testresult/236b05be9a9986b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      }, {
+        "uid" : "fc8b1a93bafcca0e",
+        "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/1/allure/#testresult/fc8b1a93bafcca0e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589619056525,
+          "stop" : 1589619069850,
+          "duration" : 13325
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "923981b9af8332f1.json",
+  "parameterValues" : [ ]
+}

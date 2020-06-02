@@ -1,0 +1,113 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SanityTests.experiBankMobile",
+    "children" : [ {
+      "name" : "login",
+      "uid" : "4e7c6f312afba361",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590231299486,
+        "stop" : 1590231303333,
+        "duration" : 3847
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "makeOnePayment",
+      "uid" : "923981b9af8332f1",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590231303403,
+        "stop" : 1590231316904,
+        "duration" : 13501
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "takeMortgage",
+      "uid" : "abfcb53cadf5c790",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590231316908,
+        "stop" : 1590231361074,
+        "duration" : 44166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "error",
+      "uid" : "4f41eb0fa34226c1",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1590231361077,
+        "stop" : 1590231361812,
+        "duration" : 735
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "login",
+      "uid" : "f0a1a3862132827a",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590232456714,
+        "stop" : 1590232461206,
+        "duration" : 4492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "mobile" ]
+    }, {
+      "name" : "makeOnePayment",
+      "uid" : "4d8840cd036930af",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590232461360,
+        "stop" : 1590232481725,
+        "duration" : 20365
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "mobile" ]
+    }, {
+      "name" : "takeMortgage",
+      "uid" : "b2d85f8a2f01abb1",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590232481733,
+        "stop" : 1590232548689,
+        "duration" : 66956
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "mobile" ]
+    }, {
+      "name" : "error",
+      "uid" : "39f4f66c9b30bc10",
+      "parentUid" : "e0405e455f1eccb97a8d4ef2d7fb35b4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1590232548692,
+        "stop" : 1590232549676,
+        "duration" : 984
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "mobile" ]
+    } ],
+    "uid" : "SanityTests.experiBankMobile"
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Default Suite",
+    "children" : [ {
+      "name" : "MobileFinalProject",
+      "children" : [ {
+        "name" : "SanityTests.experiBankMobile",
+        "children" : [ {
+          "name" : "Login",
+          "uid" : "4e7c6f312afba361",
+          "parentUid" : "27423235309b907af8fd27d3ba4bc24a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590231299486,
+            "stop" : 1590231303333,
+            "duration" : 3847
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Send Payment",
+          "uid" : "923981b9af8332f1",
+          "parentUid" : "27423235309b907af8fd27d3ba4bc24a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590231303403,
+            "stop" : 1590231316904,
+            "duration" : 13501
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Take Mortgage Request",
+          "uid" : "abfcb53cadf5c790",
+          "parentUid" : "27423235309b907af8fd27d3ba4bc24a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590231316908,
+            "stop" : 1590231361074,
+            "duration" : 44166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "ERROR",
+          "uid" : "4f41eb0fa34226c1",
+          "parentUid" : "27423235309b907af8fd27d3ba4bc24a",
+          "status" : "failed",
+          "time" : {
+            "start" : 1590231361077,
+            "stop" : 1590231361812,
+            "duration" : 735
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "27423235309b907af8fd27d3ba4bc24a"
+      } ],
+      "uid" : "a94f8cb17d88462f04671397613d9345"
+    } ],
+    "uid" : "8399274b4bb69ec8699907dd6ef7de4e"
+  }, {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Mobile Test",
+      "children" : [ {
+        "name" : "SanityTests.experiBankMobile",
+        "children" : [ {
+          "name" : "Login",
+          "uid" : "f0a1a3862132827a",
+          "parentUid" : "0b2c1744be75c8bf5391a026ab5990b3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590232456714,
+            "stop" : 1590232461206,
+            "duration" : 4492
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "Send Payment",
+          "uid" : "4d8840cd036930af",
+          "parentUid" : "0b2c1744be75c8bf5391a026ab5990b3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590232461360,
+            "stop" : 1590232481725,
+            "duration" : 20365
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "Take Mortgage Request",
+          "uid" : "b2d85f8a2f01abb1",
+          "parentUid" : "0b2c1744be75c8bf5391a026ab5990b3",
+          "status" : "passed",
+          "time" : {
+            "start" : 1590232481733,
+            "stop" : 1590232548689,
+            "duration" : 66956
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        }, {
+          "name" : "ERROR",
+          "uid" : "39f4f66c9b30bc10",
+          "parentUid" : "0b2c1744be75c8bf5391a026ab5990b3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1590232548692,
+            "stop" : 1590232549676,
+            "duration" : 984
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "mobile" ]
+        } ],
+        "uid" : "0b2c1744be75c8bf5391a026ab5990b3"
+      } ],
+      "uid" : "fd02a0b4b2e92c0934c6984c48e6f834"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

@@ -1,0 +1,1044 @@
+{
+  "382939b863e084f16695c01c0fa6b59" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "6a54fdd7f7e1876a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/6a54fdd7f7e1876a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ae027ebd4daa0b4f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/ae027ebd4daa0b4f",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e4c5ecd34e0ddba4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/e4c5ecd34e0ddba4",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f8c06ab3bbdd62c6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/f8c06ab3bbdd62c6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "65c7b83fe0a0649b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/65c7b83fe0a0649b",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "954e2afd18fa8c41",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/5/allure/#testresult/954e2afd18fa8c41",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "132a661971037123",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/4/allure/#testresult/132a661971037123",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3cf1b6482f8d37d6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/3/allure/#testresult/3cf1b6482f8d37d6",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "da68ffeb74fbc284",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/2/allure/#testresult/da68ffeb74fbc284",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6e18579433be8c2a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/1/allure/#testresult/6e18579433be8c2a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1589616261992,
+        "stop" : 1589616261994,
+        "duration" : 2
+      }
+    } ]
+  },
+  "2e87f71c170bffea0fc00b3c3997901" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "8708c370bd346584",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/8708c370bd346584",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "813a31d1728623fd",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/813a31d1728623fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "f8f41c1941c35798",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/f8f41c1941c35798",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "d6b99b3b5b7e3b89",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/d6b99b3b5b7e3b89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "e9c67e8225d649ab",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/e9c67e8225d649ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "48871dbc58ce09d3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/5/allure/#testresult/48871dbc58ce09d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "b811c157590b4a20",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/4/allure/#testresult/b811c157590b4a20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "fc776ed33bac9915",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/3/allure/#testresult/fc776ed33bac9915",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "348c9fd066c46c9f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/2/allure/#testresult/348c9fd066c46c9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    }, {
+      "uid" : "99295a8c8e901d1a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/1/allure/#testresult/99295a8c8e901d1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619069853,
+        "stop" : 1589619114070,
+        "duration" : 44217
+      }
+    } ]
+  },
+  "1c5fafe64406e2ebdede6b3ee6b577ae" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 6,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "7dfa9f6e9bd06f09",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/7dfa9f6e9bd06f09",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219207810,
+        "stop" : 1590219207812,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "14debdbf30719199",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/14debdbf30719199",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219136930,
+        "stop" : 1590219136931,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "de7946099cfd4e83",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/de7946099cfd4e83",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218337938,
+        "stop" : 1590218337939,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e317db06fd4f2a9f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/e317db06fd4f2a9f",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218337938,
+        "stop" : 1590218337939,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ec556b64f2b5fa55",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/ec556b64f2b5fa55",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217635013,
+        "stop" : 1590217635014,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b2ae38cfa28889fe",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/b2ae38cfa28889fe",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217138808,
+        "stop" : 1590217138809,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7b09bd1d176ed48fbed7798a7af4a805" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 6,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "70e98c38d71a7ee2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/70e98c38d71a7ee2",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219207979,
+        "stop" : 1590219207979,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f246fe98472bd08f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/f246fe98472bd08f",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219137059,
+        "stop" : 1590219137060,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "66f76a5f7ec743a8",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/66f76a5f7ec743a8",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338043,
+        "stop" : 1590218338043,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a46fb7a37a38621",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/5a46fb7a37a38621",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338043,
+        "stop" : 1590218338043,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "348b84ba3df013a4",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/348b84ba3df013a4",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217635169,
+        "stop" : 1590217635169,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ae38b920697551f3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/ae38b920697551f3",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217138940,
+        "stop" : 1590217138941,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4369aaa7c7bb2beee620a4ddac44d3cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "f25a95e9b22ed5ed",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/f25a95e9b22ed5ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622105484,
+        "stop" : 1589622109038,
+        "duration" : 3554
+      }
+    }, {
+      "uid" : "1c2172f38297db8b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/1c2172f38297db8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622105484,
+        "stop" : 1589622109038,
+        "duration" : 3554
+      }
+    }, {
+      "uid" : "77e4ec43414011ca",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/77e4ec43414011ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622105484,
+        "stop" : 1589622109038,
+        "duration" : 3554
+      }
+    }, {
+      "uid" : "8ea4ee658f337ee",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/8ea4ee658f337ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "e14209bd93239415",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/e14209bd93239415",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "9ee9ffc6861d6c28",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/5/allure/#testresult/9ee9ffc6861d6c28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "7f5d453f434d7449",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/4/allure/#testresult/7f5d453f434d7449",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "b2b9b5cb2a38e6da",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/3/allure/#testresult/b2b9b5cb2a38e6da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "f6cb8be71ef5c35e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/2/allure/#testresult/f6cb8be71ef5c35e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    }, {
+      "uid" : "c226b12db646348b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/1/allure/#testresult/c226b12db646348b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619053319,
+        "stop" : 1589619056462,
+        "duration" : 3143
+      }
+    } ]
+  },
+  "40a1e88a6c641dda42d2b296d7093572" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 6,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "77cb580cdca3e380",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/77cb580cdca3e380",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219207976,
+        "stop" : 1590219207976,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "378ee3eed434370c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/378ee3eed434370c",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219137056,
+        "stop" : 1590219137056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1589c933b5229c0b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/1589c933b5229c0b",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338040,
+        "stop" : 1590218338040,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a03eb39e819d0e5d",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/a03eb39e819d0e5d",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338040,
+        "stop" : 1590218338040,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7e1a0de21e9a70d7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/7e1a0de21e9a70d7",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217635166,
+        "stop" : 1590217635166,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dac5ad321a4ed258",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/dac5ad321a4ed258",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217138936,
+        "stop" : 1590217138936,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2af2318e1c7a6d34",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/15/allure/#testresult/2af2318e1c7a6d34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589780770721,
+        "stop" : 1589780843846,
+        "duration" : 73125
+      }
+    }, {
+      "uid" : "80c36bbf0eac8104",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/14/allure/#testresult/80c36bbf0eac8104",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777650455,
+        "stop" : 1589777717545,
+        "duration" : 67090
+      }
+    }, {
+      "uid" : "b8c17ad84a9f77ec",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/13/allure/#testresult/b8c17ad84a9f77ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777650455,
+        "stop" : 1589777717545,
+        "duration" : 67090
+      }
+    }, {
+      "uid" : "7e6a8f2f5f01dbff",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/12/allure/#testresult/7e6a8f2f5f01dbff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589624066857,
+        "stop" : 1589624133214,
+        "duration" : 66357
+      }
+    }, {
+      "uid" : "6e3764fcd61ed8fb",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/11/allure/#testresult/6e3764fcd61ed8fb",
+      "status" : "broken",
+      "statusDetails" : "no such element (An element could not be located on the page using the given search parameters (ID='mortageRequestButton'))  (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.35 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-RDMHKH3', ip: '192.168.0.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities [{appPackage=com.experitest.ExperiBank, device.majorVersion=6, dontGoHomeOnQuit=false, device.os=Android, noReset=false, dontStopAppOnReset=false, reservationDuration=240, reportFormat=xml, fullReset=false, platform=ANY, deviceUDID=08a912e20de85132, install.only.for.update=false, desired={appPackage=com.experitest.ExperiBank, appActivity=.LoginActivity, udid=08a912e20de85132, platformName=Android}, device.serialNumber=08a912e20de85132, locationServicesAuthorized=false, device.version=6.0.1, reportDirectory=reports, autoWebview=false, udid=08a912e20de85132, platformName=Android, testName=mobile test 05/16/20 01:12 PM, device.screenSize=1080x1920, useKeystore=false, test.type=Mobile, commandTimeouts=120000, device.manufacture=LGE, instrumentApp=false, appiumVersion=1.8.0, device.category=PHONE, autoDismissAlerts=false, reportUrl=C:\\Users\\eran\\appiumstudio-reports\\reports\\test84, newSessionWaitTimeout=600, keystorePath=~/.android/debug.keystore, appActivity=.LoginActivity, waitForDeviceTimeout=120000, device.model=Nexus 5, device.name=Nexus 5, autoGrantPermissions=false, appBuildVersion=, appReleaseVersion=, takeScreenshots=true, projectName=, autoAcceptAlerts=false}]\nSession ID: 5675db80-e6ec-4c76-8ba1-af9e71cbf831\n*** Element info: {Using=id, value=mortageRequestButton}",
+      "time" : {
+        "start" : 1589623989894,
+        "stop" : 1589624001202,
+        "duration" : 11308
+      }
+    }, {
+      "uid" : "7b98b49704084d8c",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/7b98b49704084d8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589623052491,
+        "stop" : 1589623261982,
+        "duration" : 209491
+      }
+    }, {
+      "uid" : "c6cb8f8ffe23ce48",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/c6cb8f8ffe23ce48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622700758,
+        "stop" : 1589622767667,
+        "duration" : 66909
+      }
+    }, {
+      "uid" : "561bb4e64357cbc9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/561bb4e64357cbc9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622408253,
+        "stop" : 1589622474767,
+        "duration" : 66514
+      }
+    }, {
+      "uid" : "1c9c7c26b5dae28e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/1c9c7c26b5dae28e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621767721,
+        "stop" : 1589621834433,
+        "duration" : 66712
+      }
+    }, {
+      "uid" : "44c213f093107510",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/44c213f093107510",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621042777,
+        "stop" : 1589621109317,
+        "duration" : 66540
+      }
+    } ]
+  },
+  "9f5de6b69e1093524c434151208e94a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 10
+    },
+    "items" : [ {
+      "uid" : "1396ff84cb92adca",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/1396ff84cb92adca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "deb4395434f962e9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/deb4395434f962e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "6533daeb66ed276f",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/6533daeb66ed276f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "737fbee69e229946",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/737fbee69e229946",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "36bd8ed82a727a45",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/36bd8ed82a727a45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "8b6b7b81bc6f27bf",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/5/allure/#testresult/8b6b7b81bc6f27bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "b234cb137d7bf490",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/4/allure/#testresult/b234cb137d7bf490",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "118f8001d0378b71",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/3/allure/#testresult/118f8001d0378b71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "236b05be9a9986b9",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/2/allure/#testresult/236b05be9a9986b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    }, {
+      "uid" : "fc8b1a93bafcca0e",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/1/allure/#testresult/fc8b1a93bafcca0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589619056525,
+        "stop" : 1589619069850,
+        "duration" : 13325
+      }
+    } ]
+  },
+  "2c52f67830e1769dd3b504dcb3b9f24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 6,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "a6a3b1398b59c568",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/a6a3b1398b59c568",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219207973,
+        "stop" : 1590219207973,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8461e893552a3f3b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/8461e893552a3f3b",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219137052,
+        "stop" : 1590219137052,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "55d45e30dd5fbaae",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/55d45e30dd5fbaae",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338037,
+        "stop" : 1590218338038,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4ce3d92efe0457f3",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/4ce3d92efe0457f3",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338037,
+        "stop" : 1590218338038,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6fbee1c92bfd9690",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/6fbee1c92bfd9690",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217635159,
+        "stop" : 1590217635160,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a4fed83ad8737c2a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/a4fed83ad8737c2a",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217138933,
+        "stop" : 1590217138933,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5b8435cf483a3bfc",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/15/allure/#testresult/5b8435cf483a3bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589780748825,
+        "stop" : 1589780770709,
+        "duration" : 21884
+      }
+    }, {
+      "uid" : "ed467b9d1df1c110",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/14/allure/#testresult/ed467b9d1df1c110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777629970,
+        "stop" : 1589777650449,
+        "duration" : 20479
+      }
+    }, {
+      "uid" : "ab9cc8d069a5080a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/13/allure/#testresult/ab9cc8d069a5080a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777629970,
+        "stop" : 1589777650449,
+        "duration" : 20479
+      }
+    }, {
+      "uid" : "40efd2386fd196ac",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/12/allure/#testresult/40efd2386fd196ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589624046455,
+        "stop" : 1589624066851,
+        "duration" : 20396
+      }
+    }, {
+      "uid" : "3d04bfa23cab8127",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/11/allure/#testresult/3d04bfa23cab8127",
+      "status" : "broken",
+      "statusDetails" : "no such element (An element could not be located on the page using the given search parameters (XPATH='//*[contains(text(), 'Your balance is:')]'))  (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.12 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-RDMHKH3', ip: '192.168.0.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities [{appPackage=com.experitest.ExperiBank, device.majorVersion=6, dontGoHomeOnQuit=false, device.os=Android, noReset=false, dontStopAppOnReset=false, reservationDuration=240, reportFormat=xml, fullReset=false, platform=ANY, deviceUDID=08a912e20de85132, install.only.for.update=false, desired={appPackage=com.experitest.ExperiBank, appActivity=.LoginActivity, udid=08a912e20de85132, platformName=Android}, device.serialNumber=08a912e20de85132, locationServicesAuthorized=false, device.version=6.0.1, reportDirectory=reports, autoWebview=false, udid=08a912e20de85132, platformName=Android, testName=mobile test 05/16/20 01:12 PM, device.screenSize=1080x1920, useKeystore=false, test.type=Mobile, commandTimeouts=120000, device.manufacture=LGE, instrumentApp=false, appiumVersion=1.8.0, device.category=PHONE, autoDismissAlerts=false, reportUrl=C:\\Users\\eran\\appiumstudio-reports\\reports\\test84, newSessionWaitTimeout=600, keystorePath=~/.android/debug.keystore, appActivity=.LoginActivity, waitForDeviceTimeout=120000, device.model=Nexus 5, device.name=Nexus 5, autoGrantPermissions=false, appBuildVersion=, appReleaseVersion=, takeScreenshots=true, projectName=, autoAcceptAlerts=false}]\nSession ID: 5675db80-e6ec-4c76-8ba1-af9e71cbf831\n*** Element info: {Using=xpath, value=//*[contains(text(), 'Your balance is:')]}",
+      "time" : {
+        "start" : 1589623984071,
+        "stop" : 1589623989890,
+        "duration" : 5819
+      }
+    }, {
+      "uid" : "ededa7c2fcceade5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/ededa7c2fcceade5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589623032243,
+        "stop" : 1589623052485,
+        "duration" : 20242
+      }
+    }, {
+      "uid" : "ecf120e1967526ee",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/ecf120e1967526ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622680425,
+        "stop" : 1589622700753,
+        "duration" : 20328
+      }
+    }, {
+      "uid" : "2e4e633b50b9bd98",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/2e4e633b50b9bd98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622388076,
+        "stop" : 1589622408246,
+        "duration" : 20170
+      }
+    }, {
+      "uid" : "46a4d106dd9648c7",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/46a4d106dd9648c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621747675,
+        "stop" : 1589621767716,
+        "duration" : 20041
+      }
+    }, {
+      "uid" : "81d623367fb79c5a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/81d623367fb79c5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621022152,
+        "stop" : 1589621042771,
+        "duration" : 20619
+      }
+    } ]
+  },
+  "ce83b60e2f6b4233590b06f4096c62a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 6,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 16
+    },
+    "items" : [ {
+      "uid" : "164b0cc9c3ac4109",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/21/allure/#testresult/164b0cc9c3ac4109",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219207964,
+        "stop" : 1590219207966,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ae1fa326e48384f2",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/20/allure/#testresult/ae1fa326e48384f2",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590219137043,
+        "stop" : 1590219137045,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c335224cbd38f754",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/19/allure/#testresult/c335224cbd38f754",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338029,
+        "stop" : 1590218338031,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "58d078226e25bb41",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/18/allure/#testresult/58d078226e25bb41",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590218338029,
+        "stop" : 1590218338031,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6d06e96af057d125",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/17/allure/#testresult/6d06e96af057d125",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217635151,
+        "stop" : 1590217635153,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b7764ef79cff2f2b",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/16/allure/#testresult/b7764ef79cff2f2b",
+      "status" : "skipped",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1590217138922,
+        "stop" : 1590217138926,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "e9b010f3d9034741",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/15/allure/#testresult/e9b010f3d9034741",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589780743939,
+        "stop" : 1589780748687,
+        "duration" : 4748
+      }
+    }, {
+      "uid" : "37a9cdb68cba6eb0",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/14/allure/#testresult/37a9cdb68cba6eb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777625187,
+        "stop" : 1589777629874,
+        "duration" : 4687
+      }
+    }, {
+      "uid" : "e4fd2a594938a786",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/13/allure/#testresult/e4fd2a594938a786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589777625187,
+        "stop" : 1589777629874,
+        "duration" : 4687
+      }
+    }, {
+      "uid" : "3ec0f31565cd1071",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/12/allure/#testresult/3ec0f31565cd1071",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589624041761,
+        "stop" : 1589624046346,
+        "duration" : 4585
+      }
+    }, {
+      "uid" : "b4f41cb1128e21a5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/11/allure/#testresult/b4f41cb1128e21a5",
+      "status" : "broken",
+      "statusDetails" : "no such element (An element could not be located on the page using the given search parameters (ID='usernameTextField'))  (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 5.12 seconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'\nSystem info: host: 'DESKTOP-RDMHKH3', ip: '192.168.0.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: io.appium.java_client.android.AndroidDriver\nCapabilities [{appPackage=com.experitest.ExperiBank, device.majorVersion=6, dontGoHomeOnQuit=false, device.os=Android, noReset=false, dontStopAppOnReset=false, reservationDuration=240, reportFormat=xml, fullReset=false, platform=ANY, deviceUDID=08a912e20de85132, install.only.for.update=false, desired={appPackage=com.experitest.ExperiBank, appActivity=.LoginActivity, udid=08a912e20de85132, platformName=Android}, device.serialNumber=08a912e20de85132, locationServicesAuthorized=false, device.version=6.0.1, reportDirectory=reports, autoWebview=false, udid=08a912e20de85132, platformName=Android, testName=mobile test 05/16/20 01:12 PM, device.screenSize=1080x1920, useKeystore=false, test.type=Mobile, commandTimeouts=120000, device.manufacture=LGE, instrumentApp=false, appiumVersion=1.8.0, device.category=PHONE, autoDismissAlerts=false, reportUrl=C:\\Users\\eran\\appiumstudio-reports\\reports\\test84, newSessionWaitTimeout=600, keystorePath=~/.android/debug.keystore, appActivity=.LoginActivity, waitForDeviceTimeout=120000, device.model=Nexus 5, device.name=Nexus 5, autoGrantPermissions=false, appBuildVersion=, appReleaseVersion=, takeScreenshots=true, projectName=, autoAcceptAlerts=false}]\nSession ID: 5675db80-e6ec-4c76-8ba1-af9e71cbf831\n*** Element info: {Using=id, value=usernameTextField}",
+      "time" : {
+        "start" : 1589623972836,
+        "stop" : 1589623983916,
+        "duration" : 11080
+      }
+    }, {
+      "uid" : "e63570665ae4b450",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/10/allure/#testresult/e63570665ae4b450",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589623027620,
+        "stop" : 1589623032132,
+        "duration" : 4512
+      }
+    }, {
+      "uid" : "216fb2e8bada6f1a",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/9/allure/#testresult/216fb2e8bada6f1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622675902,
+        "stop" : 1589622680324,
+        "duration" : 4422
+      }
+    }, {
+      "uid" : "eed7aa65fa5611b6",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/8/allure/#testresult/eed7aa65fa5611b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589622383843,
+        "stop" : 1589622387973,
+        "duration" : 4130
+      }
+    }, {
+      "uid" : "d9935bff4d96d2d5",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/7/allure/#testresult/d9935bff4d96d2d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621743143,
+        "stop" : 1589621747569,
+        "duration" : 4426
+      }
+    }, {
+      "uid" : "b48f770639bfdf01",
+      "reportUrl" : "http://localhost:9090/job/Final%20Project%20-%20Mobile/6/allure/#testresult/b48f770639bfdf01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589621017663,
+        "stop" : 1589621022050,
+        "duration" : 4387
+      }
+    } ]
+  }
+}
